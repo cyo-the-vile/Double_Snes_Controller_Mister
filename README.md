@@ -12,3 +12,7 @@ There are mounting holes on 3 points on PCB.  I would just use nylon plastic sup
 
 
 To order PCB please go to gerber folder and download the ZIP file and take it to a recommended PCB manufacturer such as JLCPCB.
+
+
+![Screenshot_2](https://user-images.githubusercontent.com/64904215/134600963-0dedd657-6909-481e-a6c9-ceb3ba67dbeb.png)
+
