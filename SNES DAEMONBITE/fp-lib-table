@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SNES ADAPTOR MISTER")(type KiCad)(uri "C:/Users/cyoke/Documents/kicad/SNES ADAPTOR MISTER")(options "")(descr ""))
+  (lib (name "SNES DAEMONBITE")(type KiCad)(uri "C:/Users/cyoke/Documents/kicad/SNES ADAPTOR MISTER/SNES DAEMONBITE")(options "")(descr ""))
+)
